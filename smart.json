@@ -1,5 +1,5 @@
 {
-  "name": "errors",
+  "name": "errorsByTortilla",
   "description": "A pattern to display application errors to the user",
   "homepage": "https://github.com/scpeterson/meteor-errors",
   "author": "Scott Peterson <tortilla.curtain@gmail.com>",
